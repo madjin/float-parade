@@ -1,0 +1,82 @@
+{
+  "prefab": "",
+  "size": [
+    1.1,
+    1.6,
+    1.7
+  ],
+  "centerOfMass": [
+    0,
+    0.3,
+    0
+  ],
+  "drag": 0.45,
+  "angularDrag": 3,
+  "accelAmount": 6,
+  "decelAmount": 3,
+  "brakeAmount": 5,
+  "speedMax": 30,
+  "powerCurve": "0,1,0,0|1,1,0,0",
+  "turnSpeed": 9,
+  "turnMax": 35,
+  "turnCurve": "0,1,0,0|1,0.349,0,0",
+  "antiRoll": 50,
+  "forwardSlip": 5,
+  "mode": "RWD",
+  "engineSound": false,
+  "frontZ": -0.7,
+  "frontY": 0.4,
+  "frontWidth": 1,
+  "frontSpringLength": 0.45,
+  "frontSpringStrength": 20,
+  "frontSpringDamper": 3,
+  "frontTireRadius": 0.2,
+  "frontGripCurve": "0,0.600,0,0|0.525,0.451,-0.478,-0.647|1,0.274,0,0",
+  "frontBrake": false,
+  "frontBrakeGrip": 0.2,
+  "backZ": 0.7,
+  "backY": 0.45,
+  "backWidth": 1.1,
+  "backSpringLength": 0.45,
+  "backSpringStrength": 30,
+  "backSpringDamper": 4,
+  "backTireRadius": 0.2,
+  "backGripCurve": "0,0.580,0,0|0.548,0.411,-0.462,-0.749|1,0.226,0,0",
+  "backBrake": true,
+  "backBrakeGrip": 0.2,
+  "seat1Enabled": true,
+  "seat1Position": [
+    -0.25,
+    0.4,
+    0.1
+  ],
+  "seat1RotationY": 0,
+  "seat2Enabled": true,
+  "seat2Position": [
+    -0.05,
+    -0.1,
+    -0.2
+  ],
+  "seat2RotationY": 0,
+  "seat3Enabled": false,
+  "seat3Position": [
+    0,
+    0,
+    0
+  ],
+  "seat3RotationY": 0,
+  "seat4Enabled": false,
+  "seat4Position": [
+    0,
+    0,
+    0
+  ],
+  "seat4RotationY": 0,
+  "src": {
+    "name": "bigbuilding6529_GM.glb",
+    "url": "https://data.hyperfy.xyz/uploads/b7efb35be95c19a402b0874d8b345a205a296772502c5c0f247c459034ecd827.glb"
+  },
+  "reset": null,
+  "$onenter": [],
+  "$onexit": []
+}
