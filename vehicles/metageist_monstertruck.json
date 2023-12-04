@@ -1,0 +1,83 @@
+{
+  "prefab": "",
+  "reset": 15,
+  "src": {
+    "name": "0066_MonsterDEJ_LP_coalBlack.glb",
+    "url": "https://data.hyperfy.xyz/uploads/040fb3ec9c436da578b1ac27a1db026d0e11e71d9bca04d9cd3fc9735fa8e00a.glb"
+  },
+  "size": [
+    5.3,
+    3.3,
+    6
+  ],
+  "centerOfMass": [
+    0,
+    0.2,
+    0
+  ],
+  "drag": 0.25,
+  "angularDrag": 5,
+  "accelAmount": 0.9,
+  "decelAmount": 0.9,
+  "brakeAmount": 5,
+  "speedMax": 0.3,
+  "powerCurve": "0,0.199,0,0|1,1,0,0",
+  "turnSpeed": 3,
+  "turnMax": 15,
+  "turnCurve": "0,1,0,0|1,0.349,0,0",
+  "antiRoll": 20,
+  "forwardSlip": 0,
+  "mode": "4WD",
+  "engineSound": false,
+  "frontZ": -1.74,
+  "frontY": 0.1,
+  "frontWidth": 3.6,
+  "frontSpringLength": 0,
+  "frontSpringStrength": 40,
+  "frontSpringDamper": 4,
+  "frontTireRadius": 1.74,
+  "frontGripCurve": "0,0.600,0,0|0.525,0.451,-0.478,-0.647|1,0.274,0,0",
+  "frontBrake": false,
+  "frontBrakeGrip": 0.2,
+  "backZ": 1.74,
+  "backY": 0.1,
+  "backWidth": 3.6,
+  "backSpringLength": 0,
+  "backSpringStrength": 40,
+  "backSpringDamper": 4,
+  "backTireRadius": 1.74,
+  "backGripCurve": "0,0.580,0,0|0.548,0.411,-0.462,-0.749|1,0.226,0,0",
+  "backBrake": true,
+  "backBrakeGrip": 0.2,
+  "seat1Enabled": true,
+  "seat1Position": [
+    0,
+    3.45,
+    0
+  ],
+  "seat1RotationY": 6.2,
+  "seat2Enabled": true,
+  "seat2Position": [
+    -0.5,
+    3.45,
+    0.9
+  ],
+  "seat2RotationY": -3.6,
+  "seat3Enabled": true,
+  "seat3Position": [
+    0.5,
+    3.45,
+    0.9
+  ],
+  "seat3RotationY": 103.1,
+  "seat4Enabled": true,
+  "seat4Position": [
+    0,
+    2.85,
+    -1.5
+  ],
+  "seat4RotationY": 6.2,
+  "label": "Metageist Monster Truck",
+  "$onenter": [],
+  "$onexit": []
+}

@@ -1,0 +1,83 @@
+{
+  "label": "SQUARK CAR",
+  "prefab": "",
+  "reset": 10,
+  "src": {
+    "name": "Squark-Car.glb",
+    "url": "https://data.hyperfy.xyz/uploads/4b2d3c6ceb081641c6a514a54a5cfcadab29a80d6315acf24a61c62d90ed934b.glb"
+  },
+  "size": [
+    6.28,
+    0.58,
+    8.67
+  ],
+  "centerOfMass": [
+    0,
+    0.2,
+    0
+  ],
+  "drag": 0.25,
+  "angularDrag": 40,
+  "accelAmount": 0.3,
+  "decelAmount": 0.3,
+  "brakeAmount": 5,
+  "speedMax": 0.3,
+  "powerCurve": "0,0.301,0,0|0.996,0.096,0,0",
+  "turnSpeed": 3,
+  "turnMax": 35,
+  "turnCurve": "0,1,0,0|1,0.349,0,0",
+  "antiRoll": 50,
+  "forwardSlip": 5,
+  "mode": "FWD",
+  "engineSound": false,
+  "frontZ": -3.14,
+  "frontY": 0.25,
+  "frontWidth": 6,
+  "frontSpringLength": 0.25,
+  "frontSpringStrength": 50,
+  "frontSpringDamper": 4,
+  "frontTireRadius": 0.44,
+  "frontGripCurve": "0,0.600,0,0|0.525,0.451,-0.478,-0.647|1,0.274,0,0",
+  "frontBrake": false,
+  "frontBrakeGrip": 0.2,
+  "backZ": 3.52,
+  "backY": 0.25,
+  "backWidth": 6,
+  "backSpringLength": 0.25,
+  "backSpringStrength": 50,
+  "backSpringDamper": 4,
+  "backTireRadius": 0.45,
+  "backGripCurve": "0,0.580,0,0|0.548,0.411,-0.462,-0.749|1,0.226,0,0",
+  "backBrake": true,
+  "backBrakeGrip": 0.2,
+  "seat1Enabled": true,
+  "seat1Position": [
+    0,
+    3,
+    -3.8
+  ],
+  "seat1RotationY": 6.1,
+  "seat2Enabled": true,
+  "seat2Position": [
+    0,
+    7,
+    -0.6
+  ],
+  "seat2RotationY": 0,
+  "seat3Enabled": true,
+  "seat3Position": [
+    -652.9,
+    -158.9,
+    80.7
+  ],
+  "seat3RotationY": 0,
+  "seat4Enabled": true,
+  "seat4Position": [
+    -0.4,
+    0.7,
+    2.5
+  ],
+  "seat4RotationY": -0.6,
+  "$onenter": [],
+  "$onexit": []
+}
