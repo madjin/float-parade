@@ -1,5 +1,7 @@
 # float-parade
 
+![image](https://github.com/madjin/float-parade/assets/32600939/c073aee5-cfa5-4463-beba-dc37cf360eba)
+
 - World: https://hyperfy.io/wip
 - Blog post: https://mirror.xyz/blog.thewipmeetup.eth/PEb696oH75TSTYWYCi2tuk1PWy5ofiMCJJ1rSswYOpc
 
